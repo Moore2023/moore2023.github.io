@@ -67,6 +67,7 @@ button {
     border-radius: 50px;
     cursor: pointer;
     font-size: 16px;
+    font-weight: bold; /* Added for bold text */
     display: block; /* Makes the button a block element */
     margin: 0 auto 20px; /* Increased bottom margin for more space below the button */
     width: 50%; /* You can adjust the width to your preference */
@@ -77,15 +78,15 @@ button {
     background-color: #7300ff;
     color: white;
     border: none;
-    padding: 15px 30px; /* Adjusted padding for button size */
+    padding: 20px 30px; /* Adjusted padding for button size */
     border-radius: 50px;
     cursor: pointer;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold; /* Added for bold text */
     display: block;
-    margin: 20px auto; /* Centered with margin */
+    margin: 0 auto 20px; /* Centered with margin */
     width: 50%; /* Width of the button */
-    max-width: 300px; /* Maximum width */
+    max-width: 200px; /* Maximum width */
     text-align: center;
     text-decoration: none; /* Remove underline from link */
 }
