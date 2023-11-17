@@ -33,15 +33,15 @@ h1 {
 
 textarea {
     width: 70%; /* Relative width for responsiveness */
-    max-width: 700px; /* Maximum width */
-    height: 150px; /* Height */
+    max-width: 1500px; /* Maximum width */
+    height: 500px; /* Height */
     border-radius: 25px; /* Corner radius */
     margin-bottom: 20px; /* Space between textarea and button */
     background-color: #fff; /* White background */
     border: 1px solid #dfe1e5; /* Light grey border */
     box-shadow: 0 1px 6px rgba(32,33,36,0.28); /* Subtle shadow */
     padding: 15px; /* Padding inside the textarea */
-    font-size: 16px; /* Font size */
+    font-size: 32px; /* Font size */
     color: #333; /* Font color */
     outline: none; /* Removes the default focus outline */
 }
