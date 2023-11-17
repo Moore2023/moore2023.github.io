@@ -41,7 +41,7 @@ h1 {
     max-width: 500px; /* Maximum width */
     height: 50px; /* Increased height */
     border-radius: 25px; /* Corner radius */
-    margin: 80px auto; /* Space between input and button */
+    margin: 20px auto; /* Space between input and button */
     margin-bottom: 40px;
     background-color: #fff; /* White background */
     border: 1px solid #dfe1e5; /* Light grey border */
