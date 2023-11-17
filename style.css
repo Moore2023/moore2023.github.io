@@ -59,7 +59,7 @@ h1 {
     border-color: #4d90fe; /* Google's focus border color */
 }
 
-button {
+.button {
     background-color: #7300ff;
     color: white;
     border: none;
