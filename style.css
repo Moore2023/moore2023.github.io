@@ -59,7 +59,7 @@ h1 {
     border-color: #4d90fe; /* Google's focus border color */
 }
 
-.button {
+button {
     background-color: #7300ff;
     color: white;
     border: none;
@@ -72,6 +72,29 @@ h1 {
     width: 50%; /* You can adjust the width to your preference */
     max-width: 200px; /* Maximum width for the button */
 }
+
+.button {
+    background-color: #7300ff;
+    color: white;
+    border: none;
+    padding: 15px 30px; /* Adjusted padding for button size */
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold; /* Added for bold text */
+    display: block;
+    margin: 20px auto; /* Centered with margin */
+    width: 50%; /* Width of the button */
+    max-width: 300px; /* Maximum width */
+    text-align: center;
+    text-decoration: none; /* Remove underline from link */
+}
+
+.button:hover {
+    background-color: #340e6c; /* Darker on hover */
+    text-decoration: none;
+}
+
 
 button:hover {
     background-color: #340e6c; /* Darker on hover */
