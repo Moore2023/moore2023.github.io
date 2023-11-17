@@ -39,7 +39,7 @@ h1 {
     max-width: 500px; /* Maximum width */
     height: 50px; /* Increased height */
     border-radius: 25px; /* Corner radius */
-    margin: 20px auto; /* Space between input and button */
+    margin: 80px auto; /* Space between input and button */
     background-color: #fff; /* White background */
     border: 1px solid #dfe1e5; /* Light grey border */
     box-shadow: inset 0 1px 2px rgba(0,0,0,0.18); /* Subtle inner shadow */
@@ -59,7 +59,7 @@ button {
     background-color: #7300ff;
     color: white;
     border: none;
-    padding: 20px 60px;
+    padding: 40px 100px;
     border-radius: 50px;
     cursor: pointer;
     font-size: 16px;
