@@ -23,6 +23,7 @@ body {
 
 h1 {
     margin-top: 20px;
+    font-size: 18px;
     font-family: 'DM Serif Display', serif; /* DM Serif Display font for the title */
 }
 
@@ -40,6 +41,7 @@ h1 {
     height: 50px; /* Increased height */
     border-radius: 25px; /* Corner radius */
     margin: 80px auto; /* Space between input and button */
+    margin-bottom: 40px;
     background-color: #fff; /* White background */
     border: 1px solid #dfe1e5; /* Light grey border */
     box-shadow: inset 0 1px 2px rgba(0,0,0,0.18); /* Subtle inner shadow */
@@ -64,7 +66,9 @@ button {
     cursor: pointer;
     font-size: 16px;
     display: block; /* Makes the button a block element */
-    margin: 60px auto; /* Centers the button */
+    margin: 0 auto 20px; /* Increased bottom margin for more space below the button */
+    width: 50%; /* You can adjust the width to your preference */
+    max-width: 300px; /* Maximum width for the button */
 }
 
 button:hover {
